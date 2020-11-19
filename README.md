@@ -1,5 +1,11 @@
-## 오주원(JooDdae)
+# 오주원(JooDdae)
 
-숭실대학교 소프트웨어학부 
+## 학력
+숭실대학교 소프트웨어학부 1학년
+
+## 
+BOJ : [kyo20111](https://www.acmicpc.net/user/kyo20111)
+
+CodeForces : [JooDdae](https://codeforces.com/profile/JooDdae)
 
 [![kyo20111's solvedac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kyo20111)](https://solved.ac/profile/kyo20111)
