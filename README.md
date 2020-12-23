@@ -1,8 +1,3 @@
-# 오주원(JooDdae)
-
-## 학력
-숭실대학교 소프트웨어학부 1학년
-
 ## 
 BOJ : [kyo20111](https://www.acmicpc.net/user/kyo20111)
 
